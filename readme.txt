@@ -6,7 +6,7 @@
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "voting management system" folder
+5. Extract the file and copy "Voting Management System" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
@@ -18,7 +18,7 @@
 
 7.Run the script http://localhost/voting management system
 
-username  Nurhodelta
+username  admin
 password  password
 
-Brought to you by: www.CampCodes.com
+Brought to you by: Tarun DS
